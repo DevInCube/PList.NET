@@ -1,0 +1,27 @@
+{
+	foo1{attr1='opach' attr2='ok'} = {
+	};
+	foo1{attr1='opach'} = {
+		x = 0;
+	};
+	foo2 = 'bar';/*Test*/
+	//foo3 = ba/*yy*/r;
+	foo4 = bar "bar" 'bar'      
+	;
+	x='
+	thef x
+	';
+	tuple = ( 'ok', "2", 3 );
+	indexed = [ 
+	
+		x = 1;
+		y = 2;
+
+	];
+	op pa = ku  ku ;
+	"ku\"ku" = yeas;
+	1 = ' " ';
+	2 = " ' ";
+	2 = " \"test\" ";
+	3 = 3 ' ";
+}
